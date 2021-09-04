@@ -291,3 +291,11 @@ header .logo img{
     color: #FFFFFF;
     font-weight: bold;
 }
+.footer .links ul li a:active{
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.footer .logo a:active{
+    color: #FFFFFF;
+    opacity: 0.6;
+}
